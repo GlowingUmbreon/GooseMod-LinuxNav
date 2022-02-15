@@ -1,0 +1,12 @@
+{
+  "main": "index.js",
+
+  "name": "Navigation Fix",
+  "description": "Fixes the forwards/backwards buttons activating twice on linux.",
+  "tags": [],
+
+  "authors": ["345011698043846657"],
+
+  "version": "1.0"
+}
+
